@@ -6,9 +6,7 @@ Small tool for generate bytecode from ASM source.
 First grab the code using git:
 
 ```
-git clone https://github.com/Konctantin/SmallAsmBuilder.git
-cd SmallAsmBuilder
-git submodule update --init --recursive
+git clone --recursive https://github.com/Konctantin/SmallAsmBuilder.git
 ```
 
 Use Visual Studio 2015 to build it once you have all dependencies.
